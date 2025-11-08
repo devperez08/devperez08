@@ -12,12 +12,23 @@
   </a>
 </p>
 
-# 💫 About Me:
-🚀 On the Road: Currently immersed in development with Python and Java<br>
-🌐 Collaborations: Open to teamwork! Graphical interfaces? Automation? Let's make something cool<br>
-📘 Current Search: Mastering basic programming concepts while exploring cybersecurity<br>
-🔍 My Specialty: Transforming complex problems into efficient code. Want to see how?<br>
-🌟 Did You Know?: I started with small school projects and now I'm addicted to programming
+# 💫 About Me / Sobre mí
+
+🚀 **On the Road:** Currently focused on web development using **HTML**, **CSS**, **JavaScript**, and **Python**.  
+🌐 **Collaborations:** Open to teamwork! Whether it’s building **responsive designs**, adding **interactive features**, or automating tasks with **Python**, I’m always up for a challenge.  
+📘 **Currently Exploring:** Improving my understanding of **programming fundamentals** and learning to write **clean, efficient code**.  
+🔍 **My Specialty:** Turning creative ideas into functional and user-friendly interfaces — want to see how?  
+🌟 **Fun Fact:** I started with small school projects... and now I’m addicted to bringing ideas to life through code!
+
+---
+
+🚀 **En camino:** Actualmente enfocado en el desarrollo web con **HTML**, **CSS**, **JavaScript** y **Python**.  
+🌐 **Colaboraciones:** ¡Abierto al trabajo en equipo! Ya sea creando **diseños responsivos**, agregando **funcionalidades interactivas** o automatizando tareas con **Python**, siempre busco nuevos retos.  
+📘 **Explorando actualmente:** Mejorando mi comprensión de los **fundamentos de programación** y aprendiendo a escribir **código limpio y eficiente**.  
+🔍 **Mi especialidad:** Transformar ideas creativas en **interfaces funcionales y amigables** para el usuario — ¿quieres ver cómo?  
+🌟 **Dato curioso:** Empecé con pequeños proyectos escolares... ¡y ahora soy adicto a dar vida a las ideas con código!
+
+
 
 # 💻 Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
